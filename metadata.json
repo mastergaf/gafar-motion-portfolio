@@ -1,0 +1,6 @@
+{
+  "name": "Motion Graphics Portfolio",
+  "description": "A cinematic, minimal, and elegant portfolio website for a Motion Graphics Designer, built with React, GSAP, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
