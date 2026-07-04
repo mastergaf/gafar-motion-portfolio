@@ -29,7 +29,7 @@ export default function AboutMe() {
                 <>
                   {/* Image element with lazy loading and error handler */}
                   <img
-                    src="/assets/gafar_portrait.jpg"
+                    src={gafarPortrait}
                     onError={() => setImageError(true)}
                     alt="Gafar Tinuoye Portrait"
                     referrerPolicy="no-referrer"
